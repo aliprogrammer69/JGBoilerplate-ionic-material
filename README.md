@@ -45,14 +45,69 @@ just that we'll ensure compatibility with the ones mentioned above.*
 
 ## Screenshots
 
-### Installation Step 1 - Android
+### Welcome screen - Material Design
 
+![Welcome screen - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-00.jpg)
 
-### Installation Step 2 - Android
+### Material Design - Menu
 
+![Material Design - Menu - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-00-Menu.jpg)
 
-### Welcome screen - Android
+### Material Design - More color
 
+![Material Design - More color - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-01-More-Color.jpg)
+
+### Material Design - Material Buttons
+
+![Material Design - Material Buttons - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-02-Material-Buttons.jpg)
+
+### Material Design - Ionic Buttons
+
+![Material Design - Ionic Buttons - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-03-Ionic-Buttons.jpg)
+
+### Material Design - Headers
+
+![Material Design - Headers - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-04-Headers.jpg)
+
+### Material Design - Footers and Tabs
+
+![Material Design - Footers and Tabs - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-05-Footers-Tabs.jpg)
+
+### Material Design - Buttons Bars and Plain List
+
+![Material Design - Buttons Bars and Plain List - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-06-Button-bars-Plain-list.jpg)
+
+### Material Design - Icon List and Button List
+
+![Material Design - Icon List and Button List - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-08-Icon-button-list.jpg)
+
+### Material Design - Avatar List and Thumbnail List
+
+![Material Design - Avatar List and Thumbnail List - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-09-Avatar-thumbnail-list.jpg)
+
+### Material Design - Inset List and Cards
+
+![Material Design - Inset List and Cards - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-10-Inset-Card-list.jpg)
+
+### Material Design - Forms
+
+![Material Design - Forms - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-11-Form.jpg)
+
+### Material Design - Ionic Extensions / Loading, Pop-up, Action Sheet, Modal and Popover
+
+![Material Design - Ionic Extensions - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-12-Extensions.jpg)
+
+### Material Design - List Motions
+
+![Material Design - List Motions - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-14-Motion-Lists.jpg)
+
+### Material Design - Motion Elements
+
+![Material Design - Motion Elements - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-15-Hardware-Accelerated-Motion.jpg)
+
+### Material Design - Inks
+
+![Material Design - Inks - Android](http://cdn.joomgap.com/images/JG-Boilerplate-Material/JG-Boilerplate-Material-16-Ink.jpg)
 
 ## License
 
