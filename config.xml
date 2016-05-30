@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget id="com.extly.jgionicmaterial" 
-	version="1.0.0"
-	xmlns="http://www.w3.org/ns/widgets" 
+<widget id="com.extly.jgionicmaterial"
+	version="1.1.0"
+	xmlns="http://www.w3.org/ns/widgets"
 	xmlns:gap="http://phonegap.com/ns/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android">
 
-	<preference name='phonegap-version' value='cli-6.0.0' /> 
-	
+	<preference name='phonegap-version' value='cli-6.1.0' />
+
 	<gap:config-file platform="android" parent="/manifest">
 		<application android:debuggable="true" />
-	</gap:config-file>		
-	
+	</gap:config-file>
+
 	<name>JG Boilerplate Ionic Material</name>
 	<description>
-		A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by Cordova/PhoneGap, AngularJS, Ionic Framework and Ionic Material. 
+		A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by Cordova/PhoneGap, AngularJS, Ionic Framework and Ionic Material.
 	</description>
     <author email="team@extly.com" href="http://www.extly.com/">
 		Extly Extensions
     </author>
-    
-    <content src="index.html" />    
-    
+
+    <content src="index.html" />
+
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
-    <preference name="fullscreen" value="true" />
+    <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="false" />
     <preference name="prerendered-icon" value="true" />
     <preference name="stay-in-webview" value="false" />
@@ -36,46 +36,46 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="16" />
     <preference name="android-installLocation" value="auto" />
-   
+
     <preference name="SplashScreen" value="splash" />
    	<preference name="ShowSplashScreenSpinner" value="false"/>
-	<preference name="AutoHideSplashScreen" value="true" />  
+	<preference name="AutoHideSplashScreen" value="true" />
 	<preference name="FadeSplashScreen" value="false"/>
-	
+
     <!-- Ionic Framework -->
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="BackupWebStorage" value="none" />        
-    
-	
-    <gap:plugin name="cordova-plugin-console" version="1.0.2" source="npm" />
-    <gap:plugin name="cordova-plugin-device" version="1.1.1" source="npm" />
-    <gap:plugin name="cordova-plugin-device-orientation" version="1.0.2" source="npm" />
-    <gap:plugin name="cordova-plugin-dialogs" version="1.2.0" source="npm" />
-    <gap:plugin name="cordova-plugin-globalization" version="1.0.2" source="npm" />
-    <gap:plugin name="cordova-plugin-inappbrowser" version="1.3.0" source="npm" />
-    <gap:plugin name="cordova-plugin-network-information" version="1.2.0" source="npm" />
-    <gap:plugin name="cordova-plugin-splashscreen" version="3.2.0" source="npm" />
-    <gap:plugin name="cordova-plugin-whitelist" version="1.2.1" source="npm" />
+    <preference name="BackupWebStorage" value="none" />
 
-    <gap:plugin name="ionic-plugin-keyboard" version="1.0.8" source="npm" />	
 
-    <icon gap:platform="android" src="resources/icon.png" />         
+    <gap:plugin name="cordova-plugin-console" version="1.0.3" source="npm" />
+    <gap:plugin name="cordova-plugin-device" version="1.1.2" source="npm" />
+    <gap:plugin name="cordova-plugin-device-orientation" version="1.0.3" source="npm" />
+    <gap:plugin name="cordova-plugin-dialogs" version="1.2.1" source="npm" />
+    <gap:plugin name="cordova-plugin-globalization" version="1.0.3" source="npm" />
+    <gap:plugin name="cordova-plugin-inappbrowser" version="1.4.0" source="npm" />
+    <gap:plugin name="cordova-plugin-network-information" version="1.2.1" source="npm" />
+    <gap:plugin name="cordova-plugin-splashscreen" version="3.2.2" source="npm" />
+    <gap:plugin name="cordova-plugin-whitelist" version="1.2.2" source="npm" />
+
+    <gap:plugin name="ionic-plugin-keyboard" version="2.2.0" source="npm" />
+
+    <icon gap:platform="android" src="resources/icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="resources/icon-36-ldpi.png" />
     <icon gap:platform="android" gap:qualifier="mdpi" src="resources/icon-48-mdpi.png" />
     <icon gap:platform="android" gap:qualifier="hdpi" src="resources/icon-72-hdpi.png" />
     <icon gap:platform="android" gap:qualifier="xhdpi" src="resources/icon-96-xhdpi.png" />
-    
+
     <icon gap:platform="ios" height="128" src="resources/icon.png" width="128" />
     <icon gap:platform="ios" height="57" src="resources/icon-57.png" width="57" />
     <icon gap:platform="ios" height="72" src="resources/icon-72.png" width="72" />
     <icon gap:platform="ios" height="114" src="resources/icon-57-2x.png" width="114" />
     <icon gap:platform="ios" height="144" src="resources/icon-72-2x.png" width="144" />
-    
+
     <icon gap:platform="ios" height="76" src="resources/icon-76.png" width="76" />
     <icon gap:platform="ios" height="120" src="resources/icon-120.png" width="120" />
     <icon gap:platform="ios" height="152" src="resources/icon-152.png" width="152" />
-    
+
     <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="resources/screen-android-ldpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="resources/screen-android-mdpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="resources/screen-android-hdpi-portrait.png" />
@@ -85,32 +85,32 @@
     <gap:splash gap:platform="ios" height="960" src="resources/screen-iphone-portrait-2x.png" width="640" />
     <gap:splash gap:platform="ios" height="1136" src="resources/screen-iphone-portrait-568h-2x.png" width="640" />
     <gap:splash gap:platform="ios" height="1024" src="resources/screen-ipad-portrait.png" width="768" />
-    <gap:splash gap:platform="ios" height="768" src="resources/screen-ipad-landscape.png" width="1024" /> 
-       
+    <gap:splash gap:platform="ios" height="768" src="resources/screen-ipad-landscape.png" width="1024" />
+
     <access origin="*" />
-    
+
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    
+
 	<allow-navigation href="http://*/*" />
-	<allow-navigation href="https://*/*" />    
-    
+	<allow-navigation href="https://*/*" />
+
     <platform name="android">
-        <allow-intent href="market:*" />	           
+        <allow-intent href="market:*" />
     </platform>
-    
+
     <platform name="ios">
         <allow-intent href="itms:*" />
-        <allow-intent href="itms-apps:*" />	        
+        <allow-intent href="itms-apps:*" />
     </platform>
-    
+
     <!-- Ionic Framework -->
     <feature name="StatusBar">
     	<param name="ios-package" value="CDVStatusBar" onload="true"/>
   	</feature>
-	
+
 </widget>
