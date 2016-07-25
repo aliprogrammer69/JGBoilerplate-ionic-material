@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget id="com.extly.jgionicmaterial"
-	version="1.1.0"
+	version="2.0.0"
 	xmlns="http://www.w3.org/ns/widgets"
 	xmlns:gap="http://phonegap.com/ns/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android">
@@ -58,7 +58,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" version="3.2.2" source="npm" />
     <gap:plugin name="cordova-plugin-whitelist" version="1.2.2" source="npm" />
 
-    <gap:plugin name="ionic-plugin-keyboard" version="2.2.0" source="npm" />
+    <gap:plugin name="ionic-plugin-keyboard" version="2.2.1" source="npm" />
 
     <icon gap:platform="android" src="resources/icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="resources/icon-36-ldpi.png" />

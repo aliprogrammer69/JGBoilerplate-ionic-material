@@ -1,6 +1,6 @@
 {
   "name": "JGIonicMaterial",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by Cordova/PhoneGap, AngularJS, Ionic Framework and Ionic Material.",
   "dependencies": {
     "gulp": "^3.5.6",
