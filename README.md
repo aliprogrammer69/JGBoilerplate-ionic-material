@@ -1,7 +1,5 @@
 
-## [JG Boilerplate Material](http://www.joomgap.com/)
-
-A JG Boilerplate template for Material Design.
+# [JG Boilerplate Material](http://www.joomgap.com/starters.html)
 
 A JoomGap starter project to create a hybrid mobile app for Joomla! CMS, powered by AngularJS, Ionic Framework, Ionic Material and Material Design.
 
@@ -57,7 +55,7 @@ A call to Joomla! can be simply implemented in this way:
         }
     });
 
-> Even though JG Simple Library is included to open a connect to Joomla! CMS, it still requires a server-side service, with an API, to access and provide any functionality. For instance, [JG JEDStarter](http://www.joomgap.com/docs/basics/jedstarter) implements a similar app based on JED's "Install from Web" service.
+>>>>> Even though JG Simple Library is included to open a connect to Joomla! CMS, it still requires a server-side service, with an API, to access and provide any functionality. For instance, [JG JEDStarter](http://www.joomgap.com/docs/basics/jedstarter) implements a similar app based on JED's "Install from Web" service.
 	
 ## Features
 
@@ -94,7 +92,7 @@ Updating Ionic. Update bower.json, driftyco/ionic-bower#....
 * Android 5 and 6
 * Apple iOS 8 and 9
 
-*This doesn't mean that JoomGap Boilerplate cannot be used in older OS,
+*This doesn't mean that it cannot be used in older OS,
 just that we'll ensure compatibility with the ones mentioned above.*
 
 ## Screenshots
